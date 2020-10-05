@@ -1,8 +1,8 @@
 {
-  "name": "vueblog",
+  "name": "myvuex",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "DemonGao <a750229099@qq.com>",
+  "description": "A Vuex.js project",
+  "author": "",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
